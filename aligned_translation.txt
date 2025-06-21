@@ -1,2 +1,0 @@
-This file contains the aligned translation of the Voynich manuscript.
-[Full translated content from previous analysis...]
