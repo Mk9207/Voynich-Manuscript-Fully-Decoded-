@@ -1,8 +1,0 @@
-Symbol	Meaning
-qo	plant
-ok	water
-che	growth
-sho	root
-te	leaf
-na	star
-ra	woman
